@@ -7,7 +7,7 @@ Dev tool for merging a whole module or code folder into one text file for LLM in
 ## Overview
 **Code Piper** is a robust and interactive tool designed to consolidate files and folders into a single structured text file. It’s perfect for preparing codebases or projects for AI and LLM (Large Language Model) analysis, sharing clean inputs, or simply merging files for organized documentation.
 
-Built with scalability and ease of use in mind, **Code Piper** ensures that even complex repositories can be bundled interactively with minimal effort.
+Built with scalability and ease of use in mind, **Code Piper** ensures that even complex repositories can be bundled interactively with minimal effort. This allowed me to 10X my work output when i ran it after drumming up the code quickly, work smart!
 
 ---
 
